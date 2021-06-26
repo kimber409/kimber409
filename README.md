@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oliver</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimber409" alt="kimber409" /></a> </p>
+<p align="left"> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimber409&show_icons=true&locale=en" alt="kimber409" /></p> </p>
 
 Here are some ideas to get you started:
 
