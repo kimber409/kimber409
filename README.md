@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oliver</h1>
 
-**kimber409/kimber409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimber409" alt="kimber409" /></a> </p>
 
 Here are some ideas to get you started:
 
