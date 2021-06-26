@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliver</h1>
 
 
-- 🔭 I’m currently working on a discord bot with @AhsokaT
+- 🔭 I’m currently working on a discord bot with [AhsokaT](https://github.com/AhsokaT)
 - 🌱 I’m currently learning C# and JS
 - 👯 I’m looking to collaborate on a discord bot
 - 📫 How to reach me: My email is oliver@k3r.me
